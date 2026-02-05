@@ -10,3 +10,4 @@
         name: arista.avd.cv_deploy
       vars:
         cv_run_change_control: true
+        cv_server: "montreal-jour3-10-4fe5195e-eos.topo.testdrive.arista.com"
